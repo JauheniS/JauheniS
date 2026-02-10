@@ -10,32 +10,31 @@ PHP Developer with over 6 years of commercial experience in eCommerce, eMarketin
 PHP 7, PHP 8, Laravel, Phalcon, Spiral, SQL, MySQL, MariaDB, ORM, Temporal, RoadRunner, Redis, Clickhouse, Kafka, REST API, Reflection API, PHPUnit, XDebug, Git, RabbitMQ, Nginx, UFW, HTML5, JavaScript, jQuery, CSS, Bootstrap, RabbitMQ, Symfony, CI/CD, Docker, Kubernetes, Redmine, Jenkins, PSALM, JWT, Swagger, Guzzle7, ChubbyPHP, Nutgram, Lumen, GraphQL, OpenTelemetry, Jaeger, Prometheus, Moonshine, Cycle ORM, Jira
 
 # MAXLINE: 03/2025 - 03/2026, 1 year 
-- Made sports parsers with PHP 8.4+, decreasing parse times from ~3 minutes per batch to ~2 seconds per same batch
+- Made sports parsers with PHP 8.4+, decreasing parse times from ~3 minutes per batch to ~4 seconds per same batch
 - Worked on XLS library that decreased time-to-develop of CSV and XLS compressing tasks from 4 hours to ~1 hour
-- Maintained and develop company APIs, increasing page loading speeds to 0.33 sec
+- Maintained and develop company APIs, decreasing page loading speeds to 0.33 sec
 - Served as a Unit Lead for betting statistics; developed 3 important statistics APIs and related documentation.
 - Technologies: RoadRunner, Cycle ORM, Phalcon, MariaDB, MongoDB, RabbitMQ, Centrifugo, GraphQL
 
 
 # SOFTGAMINGS: 10/2023 - 02/2025, 1.3 years 
-- Worked with casinos Cashback and Rakeback functionality, increasing biggest client GGR to 34.4% by 4 months
+- Worked with casinos Cashback and Rakeback functionality, increasing biggest client GGR to 14.4% by 4 months
 - Made new type of high-load bonus claim logic, reducing player bonus claim availability from ~1 hour to <5 seconds
-- Maintained and renewed legacy code weak points, reducing clients bug reports by 83.3%
+- Maintained and renewed legacy code weak points, reducing clients bug reports by 76,7% (from 3 per week to less than 1)
 - Remade all logging functionality and created separate logs pages, reducing issue resolve time from 2 hours to 15 minutes
-- Organised cross-team work, reducing Urgent tickets travel time from creation to release by 29.3%
+- Organised cross-team work, reducing Urgent tickets travel time from creation to release by 25%
 - Technologies: Laravel 10-11, Symfony, Clickhouse, MySQL, Redis, Zookeeper
 
 # Panda Marketing: 09/2022 - 09/2023, 1 year
 - Made service Telegram moderator bots with subscriptions, increasing company revenue by 13.4%
 - Made high-load ADs auction service, increasing AD sells revenue by 24.4%
-- Renewed company website, reducing page loading speed from 4.42 to 1.12 seconds
-- Made special logs bot with automated scripts to restart failed instances under high-load, reducing SLA tickets by 64.8%
-- Added GitLab and Jenkins to legacy projects, reducing conflicts and release time by 78.8%
+- Made special logs bot with automated scripts to restart failed instances under high-load, reducing SLA tickets by 24.8%
+- Added GitLab and Jenkins to legacy projects, reducing conflicts and release time by 76.7%
 - Technologies: Laravel, Redis, MariaDB, CURL, Nginx
 
 # Neutron Agency: 01/2021 - 09/2022, 1.7 years 
 - Served as a Team Lead, created company own apps and services, increasing revenue by 23.4%
-- Created company and clients backend, CI/CD, servers tech stack, increasing develop speed by 43.7%
+- Created company and clients backend, CI/CD, servers tech stack, increasing develop speed by 33.3%
 - Renewed clients outdated CMS to a new high-load ready tech stack, increasing clients-generated leads by 13.6%
 - Created WEB and XLS parsers for eCommerce clients, reducing time to parse fresh catalogs from ~5 hours to <15 minutes
 - Organised company team work with Redmine, Trello and Slack, reducing all tickets travel time to release by 43.6%
