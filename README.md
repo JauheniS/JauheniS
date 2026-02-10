@@ -9,6 +9,13 @@ PHP Developer with over 6 years of commercial experience in eCommerce, eMarketin
 ## Stack
 PHP 7, PHP 8, Laravel, Phalcon, Spiral, SQL, MySQL, MariaDB, ORM, Temporal, RoadRunner, Redis, Clickhouse, Kafka, REST API, Reflection API, PHPUnit, XDebug, Git, RabbitMQ, Nginx, UFW, HTML5, JavaScript, jQuery, CSS, Bootstrap, RabbitMQ, Symfony, CI/CD, Docker, Kubernetes, Redmine, Jenkins, PSALM, JWT, Swagger, Guzzle7, ChubbyPHP, Nutgram, Lumen, GraphQL, OpenTelemetry, Jaeger, Prometheus, Moonshine, Cycle ORM, Jira
 
+# MAXLINE: 03/2025 - 03/2026, 1 year 
+- Made sports parsers with PHP 8.4+, decreasing parse times from ~3 minutes per batch to ~2 seconds per same batch
+- Worked on XLS library that decreased time-to-develop of CSV and XLS compressing tasks from 4 hours to ~1 hour
+- Maintained and develop company APIs, increasing page loading speeds to 0.33 sec
+- Served as a Unit Lead for betting statistics; developed 3 important statistics APIs and related documentation.
+- Technologies: RoadRunner, Cycle ORM, Phalcon, MariaDB, MongoDB, RabbitMQ, Centrifugo, GraphQL
+
 
 # SOFTGAMINGS: 10/2023 - 02/2025, 1.3 years 
 - Worked with casinos Cashback and Rakeback functionality, increasing biggest client GGR to 34.4% by 4 months
