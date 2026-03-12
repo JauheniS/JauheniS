@@ -1,5 +1,5 @@
 # Yauheni Slobadau  
-📧 [yauheni.slobadau@gmail.com](mailto:yauheni.slobadau@gmail.com) · ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)
+📧 [yauheni.slobadau@gmail.com](mailto:yauheni.slobadau@gmail.com) · [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yauheni-slobadau/)
 
 ---
 
